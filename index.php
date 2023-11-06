@@ -462,5 +462,21 @@
 		})
 	</script>
 
+	<script type="text/javascript">
+	var sc_project=12928225; 
+	var sc_invisible=1; 
+	var sc_security="ee1f28d6"; 
+	</script>
+	<script type="text/javascript"
+	src="https://www.statcounter.com/counter/counter.js"
+	async></script>
+	<noscript><div class="statcounter"><a title="site stats"
+	href="https://statcounter.com/" target="_blank"><img
+	class="statcounter"
+	src="https://c.statcounter.com/12928225/0/ee1f28d6/1/"
+	alt="site stats"
+	referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+	<!-- End of Statcounter Code -->
+
 	</body>
 </html>
