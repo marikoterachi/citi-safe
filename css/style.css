@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600;700;900&family=Jost:wght@300;400;600;900&display=swap');
+
+body {
+  font-family: 'Jost', sans-serif;
+}
+
+a.brand-logo {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 900;
+}
+
+.josefin {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+nav.custom-color {
+  background-image: linear-gradient(to right, #050608, #4a505e);
+}
+
+header {
+  min-height: 100vh;
+  background-image: linear-gradient(to right, #050608, #4a505e);
+  /*background-color: linear-gradient(#212121, #424242);*/
+}
+
+header > nav {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+section {
+  padding: 5% 0;
+  background-image: linear-gradient(to right, #e8ebf4, #fff);
+}
+
+.btn, .btn-large {
+  text-transform: none;
+  box-shadow: none;
+}
+
+.custom-btn {
+  width: 100%;
+  background-image: linear-gradient(to right, #2196f3, #0c48d5);
+  box-shadow: none;
+}
+
+nav .btn {
+  background-color: transparent;
+  border: 1px solid #2196f3;
+}
+
+header > .container {
+  color: white;
+}
+
+header > .container > h1 {
+  font-weight: 900;
+  font-size: 5rem;
+}
+
+.primary-text {
+  color: #0c48d5;
+}
+
+footer.page-footer {
+  background-image: linear-gradient(to right, #2196f3, #0c48d5);
+}
+
+.modal-footer {
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 1440px) {
+  header > .container > h1 {
+    font-weight: 900;
+    font-size: 4rem;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  header > .container > h1 {
+    font-weight: 900;
+    font-size: 2rem;
+  }
+}
